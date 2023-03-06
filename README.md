@@ -1,6 +1,7 @@
 # chatgpt
-
 A new Flutter project.
+
+![chatbot](https://user-images.githubusercontent.com/100143777/223039352-0817a7bf-7545-4e32-8dab-44fde1531f3c.jpg)
 
 ## Getting Started
 
